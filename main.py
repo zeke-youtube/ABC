@@ -9,7 +9,7 @@ import time
 import random
 
 # 🔐 Replace with your actual token securely
-TOKEN = 'YOUR_DISCORD_BOT_TOKEN'
+TOKEN = 'MTQyNjgzOTg1MjE4MzE5NTcyMg.GreWx3.l1IUseC07viSCUCPVFHH_X6mHZVodWuYTyHdsg'
 CHANNEL_ID = 1429404403055595681  # Target channel ID
 ROLE_ID = 1429404925091119205     # Role to ping
 
